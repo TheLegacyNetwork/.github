@@ -6,7 +6,7 @@
 
 To see an overview of repositories, stack and architecture, or other supporting documentation, see:
 
-- [Code of Conduct](https://github.com/Memtell/specs)
+- [Code of Conduct](https://github.com/TheLegacyNetwork/.github/blob/main/CODE_OF_CONDUCT.md)
 
 For help and support see our community discussions forum
 - [Community Discussions](https://github.com/TheLegacyNetwork/community/discussions)
