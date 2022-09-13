@@ -1,4 +1,4 @@
-![Welcome to the Legacy Github](https://raw.githubusercontent.com/TheLegacyNetwork/.github/main/profile/legacy-github.png)
+![Welcome to the Legacy Github](https://raw.githubusercontent.com/TheLegacyNetwork/.github/main/profile/legacy-github-splash.png)
 
 ## Welcome to Legacy's organisation on GitHub
 
