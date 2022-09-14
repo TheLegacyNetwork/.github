@@ -1,9 +1,9 @@
 ---
 name: "✨ Feature request"
 about: Suggest an idea for this project
-title: ""
-labels: "feature :sparkles:"
-assignees: ""
+title: ''
+labels: 'feature :sparkles:'
+assignees: ''
 
 ---
 
